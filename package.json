@@ -1,0 +1,15 @@
+{
+  "name": "03-bases",
+  "version": "1.0.0",
+  "description": "Aplicaicon de linea de comandos para generar tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos FA",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
